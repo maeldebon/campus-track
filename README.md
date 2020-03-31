@@ -8,4 +8,5 @@ Les membres du groupe sont les suivants :
 
 ### Liens vers les livrables :
 
-- Livrable n°1 : [Accéder](#)
+- Livrable n°1 : [Accéder (Bientôt)](#)
+- Livrable n°2 : [Accéder (Bientôt)](#)
