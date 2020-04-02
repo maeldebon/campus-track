@@ -19,7 +19,7 @@ Le thème choisi porte sur la pollution issue de l'informatique et son impact en
 
 ### Rendu
 Voici l'apparence de notre page d'accueil :
-![Image](https://imgur.com/An4S0d6 "image")
+![Image](https://i.imgur.com/An4S0d6.png "image")
 
 ### Liens vers les livrables :
 
