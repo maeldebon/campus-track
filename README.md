@@ -6,7 +6,7 @@ Le thème choisi porte sur la pollution issue de l'informatique et son impact en
 
 ## Composition et présentation des membres du groupe
 #### Hélori Gouin
-> Coming soon.
+> Hélori est étudiant en première année de Mastère d'informatique.
 
 ##### Johnny Yvard
 > Ancien barman, ayant vécu en Corse et en Provence pendant 12 ans, aimant toujours faire des cocktails pour la famille et les amis pour prendre du bon temps et en reconversion professionnelle depuis février 2018, je travaille dans une entreprise Microsoft Partner Gold depuis Octobre 2018 et j'aime coder. Ceci dit, j'apprends par mes propres moyens car, en entreprise, c'est du drag and drop et en cours c'est de la rédaction de documents.
